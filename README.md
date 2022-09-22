@@ -1,4 +1,5 @@
 # Scrumdinger
+### Description
 Scrum Management App (Apple iOS App Dev Tutorial)
 
 ### Goals
